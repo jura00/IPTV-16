@@ -2,7 +2,7 @@
 #EXTINF:-1,Discovery Science
 http://live02-cdn.tv.ti.ru/dtv/id248_NBN_SG--DiscoveryScienceHD/04/plst.m3u8
 #EXTINF:-1,Galaxy
-http://178.163.81.61:4022/udp/234.0.0.111:2000
+http://178.163.87.168:4022/udp/234.0.0.111:2000
 #EXTINF:-1,Da Vinci
 http://sc.id-tv.kz:80/DaVinci_38_39.m3u8
 #EXTINF:-1,HD Media
