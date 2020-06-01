@@ -95,8 +95,6 @@ http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
 #EXTINF:-1,RTVi
 http://85.143.191.135/42/7ed9932e9517c5ee1032d0065c5f3a7e8d3afff2/26/stream.m3u8
-#EXTINF:-1,Дождь
-http://dmitry-tv.my1.ru/his/yatv/CH_DOZHD.m3u8
 #EXTINF:-1,Дождь HD
 http://185.22.183.152:8085/media/hls_183_152/dozd/index.m3u8
 #EXTINF:-1,100% News
