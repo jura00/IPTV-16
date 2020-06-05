@@ -97,7 +97,7 @@ http://85.143.191.135/42/7ed9932e9517c5ee1032d0065c5f3a7e8d3afff2/26/stream.m3u8
 http://185.22.183.152:8085/media/hls_183_152/dozd/index.m3u8
 #EXTINF:-1,100% News
 http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
-#EXTINF:-1,ОНТ
+#EXTINF:-1,ОБЩЕСТВЕННОЕ НЕЗАВИСИМОЕ ТЕЛЕВИДЕНИЕ
 http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
 #EXTINF:-1,UA: Перший Ukraine
 http://api.tv.ipnet.ua/api/v1/manifest/871803891.m3u8
