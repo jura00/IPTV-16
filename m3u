@@ -163,7 +163,6 @@ http://95.67.12.149:9004
 http://api.tv.ipnet.ua/api/v1/manifest/2007308341.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,Малятко
 http://api.tv.ipnet.ua/api/v1/manifest/1311963260.m3u8
-http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/bbb/bbbtv-720p/playlist.m3u8
 #EXTINF:-1,Disney канал
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/bw2000000/variant.m3u8?version=2
 #EXTINF:-1,2x2
