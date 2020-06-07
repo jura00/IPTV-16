@@ -108,9 +108,7 @@ http://api.tv.ipnet.ua/api/v1/manifest/2118742330.m3u8
 #EXTINF:-1,UKR LIVE
 http://95.67.12.149:9005
 #EXTINF:-1,1+1
-http://188.35.9.11:2001
-#EXTINF:-1,2+2
-http://188.35.9.11:2031/index.m3u8
+http://188.35.9.11:11011/a
 #EXTINF:-1,Интер
 http://109.68.41.148:1935/live/inter_2/playlist.m3u8
 #EXTINF:-1,112 Украина
@@ -177,8 +175,6 @@ http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:-1,Russian MusicBox
 http://serv25.vintera.tv:8081/test/rusmusbox/playlist.m3u8
-#EXTINF:-1,Retro Music TV
-http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
 #EXTINF:-1,1mus.com
 http://rtmp.one.by:1300
 #EXTINF:-1,1HD Music
@@ -201,3 +197,4 @@ http://hls.redefine.pl/20C4EB56/1575/0/hls576/masterlist.m3u8
 http://hls.redefine.pl/97100F84/1577/0/hls576/576p/list.m3u8
 #EXTINF:-1,TV Republika
 https://ec08.luz1.cache.orange.pl/jupiter/o2-cl7/live/tvrepublika/live-tvrepublika-1700k.m3u8
+
