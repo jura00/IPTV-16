@@ -155,8 +155,6 @@ http://95.67.106.10/hls/nta_ua_hi/index.m3u8
 https://cdn10.live-tv.od.ua:8083/sk1zt/sk1zt-abr/sk1zt/sk1zt720p/chunks.m3u8
 #EXTINF:-1,Перший незалежний
 http://95.67.12.149:9004
-#EXTINF:-1,ATR
-http://api.tv.ipnet.ua/api/v1/manifest/2007308341.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,Малятко
 http://api.tv.ipnet.ua/api/v1/manifest/1311963260.m3u8
 #EXTINF:-1,Disney канал
@@ -173,16 +171,16 @@ http://hls.shansontv.cdnvideo.ru/shansontv/shansontv_hq.sdp/playlist.m3u8
 http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
 #EXTINF:-1,Телеканал Радио Страна ФМ
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
-#EXTINF:-1,Russian MusicBox
-http://serv25.vintera.tv:8081/test/rusmusbox/playlist.m3u8
 #EXTINF:-1,1mus.com
 http://rtmp.one.by:1300
 #EXTINF:-1,1HD Music
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
+#EXTINF:-1,Russian MusicBox
+http://serv25.vintera.tv:8081/test/rusmusbox/playlist.m3u8
+#EXTINF:-1,MusicBox
+http://hls.clubplus.eu/ch09/index.m3u8
 #EXTINF:-1,М2
 http://live.m2.tv/hls3/stream.m3u8
-#EXTINF:-1,MUsicBox
-http://hls.clubplus.eu/ch09/index.m3u8
 #EXTINF:-1,radiom2o
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 #EXTINF:-1,CGTN Русский
@@ -195,6 +193,4 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreami
 http://hls.redefine.pl/20C4EB56/1575/0/hls576/masterlist.m3u8
 #EXTINF:-1,POLSAT Cafe
 http://hls.redefine.pl/97100F84/1577/0/hls576/576p/list.m3u8
-#EXTINF:-1,TV Republika
-https://ec08.luz1.cache.orange.pl/jupiter/o2-cl7/live/tvrepublika/live-tvrepublika-1700k.m3u8
 
