@@ -3,7 +3,7 @@
 https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/source1_2.5k/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NmnXn2z.jpg", N12
 https://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
-#EXTINF:-1 tvg-id="Reshet 12" tvg-logo="https://imgur.com/VdaTgbX.jpg", 13 Channel Reshet
+#EXTINF:-1 tvg-logo="https://imgur.com/VdaTgbX.jpg", Reshet 12
 https://reshet-live-il.ctedgecdn.net/13tv-desktop/r13.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/b/b9/סמליל_ערוץ_הקניות.jpg", 21 Channel Shopping
 http://82.80.192.30/shoppingil_ShoppingIL21TVRepeat/_definst_/smil:ShoppingIL21TV.smil/playlist.m3u8
