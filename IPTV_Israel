@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="http://iptv-content.webhop.net/guide.xml"
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0rftidO.jpg", KAN 11
 https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/source1_2.5k/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NmnXn2z.jpg", N1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NmnXn2z.jpg", N12
 https://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/VdaTgbX.jpg", Reshet 12
 https://reshet-live-il.ctedgecdn.net/13tv-desktop/r13.m3u8
