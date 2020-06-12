@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="http://iptv-content.webhop.net/guide.xml"
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0rftidO.jpg", KAN 11
 https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/source1_2.5k/chunklist.m3u8
-#EXTINF:-1, N12 tvg-logo="https://i.imgur.com/NmnXn2z.jpg"
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NmnXn2z.jpg", N12
 https://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/VdaTgbX.jpg", Reshet 13
 https://reshet-live-il.ctedgecdn.net/13tv-desktop/r13.m3u8
@@ -11,7 +11,7 @@ http://82.80.192.30/shoppingil_ShoppingIL21TVRepeat/_definst_/smil:ShoppingIL21T
 https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/source1_2.5k/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sAuAxQE.jpg", 24 Channel Music
 https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
-#EXTINF:-1 tvg-id="Knesset Channel-IS" tvg-language="Hebrew" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/4/43/Knessetch10.svg/2560px-Knessetch10.svg.png", 99 Channel Knesset
+#EXTINF:-1 tvg-id="Knesset Channel-IS" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/4/43/Knessetch10.svg/2560px-Knessetch10.svg.png", 99 Channel Knesset
 http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wKi97Pg.png", Hidabroot
 https://stream5.shidur.net/htvlive2/_definst_/smil:live2.smil/chunklist.m3u8
