@@ -13,15 +13,13 @@ http://185.46.48.16/NANO/index.m3u8
 http://178.163.44.13:4022/udp/234.0.0.226:2000
 #EXTINF:-1,LOVE NATURE 4K
 http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_LOVENATURE4K_HLSHD.m3u8
-#EXTINF:-1,Моя Планета
-http://a3569456481-s26881.cdn.ngenix.net/live/smil:mplan.smil/chunklist_b1600000.m3u8
 #EXTINF:-1,Ocean TV
 http://live-oceantvhd.cdnvideo.ru/oceantvhd/oceantvhd/chunklist.m3u8
 #EXTINF:-1,История
 http://78.29.1.69/live/istoriya/copy/playlist.m3u8
 #EXTINF:-1,Fashion TV
 http://persik.by/stream/6606/411484/10470.m3u8
-#EXTINF:-1,Fashion One 4K
+#EXTINF:-1 tvg-logo="https://imgur.com/a/3ByQ31J", Fashion 4K
 http://persik.by/stream/6726/387326/10317.m3u8
 #EXTINF:-1,HDFASHION & Lifestyle
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
@@ -29,10 +27,10 @@ http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 http://wfc.bonus-tv.ru:80/cdn/wfcrus/tracks-v1a1/index.m3u8
 #EXTINF:-1,Кинозал 1 (pznstreams)
 http://hls.goodgame.ru/hls/12949.m3u8
+#EXTINF:-1,Кинозал 2 (STR TV)
+https://hls.goodgame.ru/hls/130048.m3u8
 #EXTINF:-1,ULTO TV
 http://ultotv.ru:8888/live/uhd/playlist.m3u8
-#EXTINF:-1,Кинозал 3 (STR TV)
-https://hls.goodgame.ru/hls/130048.m3u8
 #EXTINF:-1,Eurosport 4K
 http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8
 #EXTINF:-1,Евроновости
