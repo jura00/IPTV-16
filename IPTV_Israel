@@ -7,7 +7,7 @@ https://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
 https://reshet-live-il.ctedgecdn.net/13tv-desktop/r13.m3u8
 #EXTINF:-1 tvg-name="Channel 20" tvg-logo="http://thumbs2.imagebam.com/aa/8b/9f/fe51a9784877423.jpg", 20 Channel Moreshet
 https://dvr.ch20-cdnwiz.com/mobilehls/dvr_high/index.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.130 Safari/537.36
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/b/b9/סמליל_ערוץ_הקניות.jpg", 21 Channel Shopping
+#EXTINF:-1 tvg-id="209.tv.walla.co.il" tvg-logo="https://upload.wikimedia.org/wikipedia/he/b/b9/סמליל_ערוץ_הקניות.jpg", 21 Channel Shopping
 http://82.80.192.30/shoppingil_ShoppingIL21TVRepeat/_definst_/smil:ShoppingIL21TV.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/2880px-KanHinuchit.svg.png", 23 Channel Hinuchit
 https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/source1_2.5k/chunklist.m3u8
