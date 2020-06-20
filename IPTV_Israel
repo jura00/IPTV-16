@@ -1,11 +1,11 @@
 #EXTM3U url-tvg="http://iptv-content.webhop.net/guide.xml"
-#EXTINF:-1 tvg-name="KAN 11" tvg-logo="https://imgur.com/0rftidO.jpg", 11 Kan
+#EXTINF:-1 tvg-name="KAN 11" tvg-logo="https://imgur.com/0rftidO.jpg", 11 Channel Kan
 https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/source1_2.5k/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/NmnXn2z.jpg", N12
 https://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
 #EXTINF:-1 tvg-name="Keshet 13" tvg-logo="https://imgur.com/VdaTgbX.jpg", 13 Channel Reshet
 https://reshet-live-il.ctedgecdn.net/13tv-desktop/r13.m3u8
-#EXTINF:-1 tvg-logo="http://thumbs2.imagebam.com/aa/8b/9f/fe51a9784877423.jpg", 20 Moreshet
+#EXTINF:-1 tvg-name="Channel 20" tvg-logo="http://thumbs2.imagebam.com/aa/8b/9f/fe51a9784877423.jpg", 20 Channel Moreshet
 https://dvr.ch20-cdnwiz.com/mobilehls/dvr_high/index.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.130 Safari/537.36
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/b/b9/סמליל_ערוץ_הקניות.jpg", 21 Channel Shopping
 http://82.80.192.30/shoppingil_ShoppingIL21TVRepeat/_definst_/smil:ShoppingIL21TV.smil/playlist.m3u8
