@@ -17,6 +17,8 @@ http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_LOVENATURE4K_HLSHD.m3u8
 http://live-oceantvhd.cdnvideo.ru/oceantvhd/oceantvhd/chunklist.m3u8
 #EXTINF:-1,История
 http://78.29.1.69/live/istoriya/copy/playlist.m3u8
+#EXTINF:-1,Viasat History
+http://2.60.191.124:1234/udp/233.7.70.17:5000
 #EXTINF:-1,Fashion TV
 http://persik.by/stream/6606/411484/10470.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Gx2ioJp.jpg",Fashion 4K
@@ -73,8 +75,6 @@ https://bl.zxz.su/live/317843/HLS/4614144_3,2883584_1,1153024_2/1565365354/7f8af
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/bw2000000/variant.m3u8?version=2
 #EXTINF:-1,Че
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/bw2000000/variant.m3u8?version=2
-#EXTINF:-1,Ю
-http://zabava-htlive.cdn.ngenix.net/hls/CH_U/bw2000000/variant.m3u8?version=2
 #EXTINF:-1,ТНТ
 https://bl.zxz.su/live/317850/HLS/4614144_3/1565921809/94e975ed33722815523b6d1fbe0f8780/playlist.m3u8
 #EXTINF:-1,ТНТ4
@@ -102,7 +102,7 @@ http://api.tv.ipnet.ua/api/v1/manifest/2118742330.m3u8
 #EXTINF:-1,UKR LIVE
 http://95.67.12.149:9005
 #EXTINF:-1,1+1
-http://188.35.9.11:11011/a
+http://188.35.9.11:2001/index.m3u8
 #EXTINF:-1,Интер
 http://109.68.41.148:1935/live/inter_2/playlist.m3u8
 #EXTINF:-1,112 Украина
