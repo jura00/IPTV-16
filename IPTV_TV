@@ -91,7 +91,7 @@ http://85.143.191.135/42/7ed9932e9517c5ee1032d0065c5f3a7e8d3afff2/26/stream.m3u8
 http://live02-cdn.tv.ti.ru:80/dtv/id1277_NBN_SG--DozhdHD/04/plst.m3u8
 #EXTINF:-1,100% News
 http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
-#EXTINF:-1,ОБЩЕСТВЕННОЕ НЕЗАВИСИМОЕ ТЕЛЕВИДЕНИЕ
+#EXTINF:-1 tvg-logo="https://imgur.com/bC7Dtnf.jpg",ОБЩЕСТВЕННОЕ НЕЗАВИСИМОЕ ТЕЛЕВИДЕНИЕ
 http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
 #EXTINF:-1,UA: Перший Ukraine
 http://api.tv.ipnet.ua/api/v1/manifest/871803891.m3u8
