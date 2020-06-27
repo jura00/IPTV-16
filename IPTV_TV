@@ -17,10 +17,10 @@ http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_LOVENATURE4K_HLSHD.m3u8
 http://live-oceantvhd.cdnvideo.ru/oceantvhd/oceantvhd/chunklist.m3u8
 #EXTINF:-1,Viasat Explore
 http://persik.tv/stream/6299/10/10280.m3u8
-#EXTINF:-1,История
-http://78.29.1.69/live/istoriya/copy/playlist.m3u8
 #EXTINF:-1,Viasat History
 http://31.41.100.5:81/udp/225.0.55.27:1234
+#EXTINF:-1,История
+http://78.29.1.69/live/istoriya/copy/playlist.m3u8
 #EXTINF:-1,Fashion TV
 http://persik.by/stream/6606/411484/10470.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Gx2ioJp.jpg",Fashion 4K
@@ -93,7 +93,7 @@ http://85.143.191.135/42/7ed9932e9517c5ee1032d0065c5f3a7e8d3afff2/26/stream.m3u8
 http://live02-cdn.tv.ti.ru:80/dtv/id1277_NBN_SG--DozhdHD/04/plst.m3u8
 #EXTINF:-1,100% News
 http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/bC7Dtnf.jpg",ОБЩЕСТВЕННОЕ НЕЗАВИСИМОЕ ТЕЛЕВИДЕНИЕ
+#EXTINF:-1 tvg-logo="https://imgur.com/bC7Dtnf.jpg",Общественное Независимое Телевидение
 http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/kgAIiIJ.jpg",UA: Перший Ukraine
 http://api.tv.ipnet.ua/api/v1/manifest/871803891.m3u8
@@ -163,16 +163,18 @@ http://hls.shansontv.cdnvideo.ru/shansontv/shansontv_hq.sdp/playlist.m3u8
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:-1,1mus.com
 http://rtmp.one.by:1300
-#EXTINF:-1,1HD Music
-http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 #EXTINF:-1,Russian MusicBox
 http://serv25.vintera.tv:8081/test/rusmusbox/playlist.m3u8
-#EXTINF:-1,MusicBox
-http://hls.clubplus.eu/ch09/index.m3u8
 #EXTINF:-1,М2
 http://live.m2.tv/hls3/stream.m3u8
-#EXTINF:-1,radiom2o
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+#EXTINF:-1,MTV Live HD
+http://live02-cdn.tv.ti.ru:80/dtv/id409_NBN_SG--MTV_Live_HD/04/plst.m3u8
+#EXTINF:-1,VH1 Classic
+http://live02-cdn.tv.ti.ru:80/dtv/id146_NBN_SG--VH1Class/03/plst.m3u8
+#EXTINF:-1,MusicBox
+http://hls.clubplus.eu/ch09/index.m3u8
+#EXTINF:-1,1HD Music
+http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 #EXTINF:-1,CGTN Русский
 http://live.cgtn.com/1000r/prog_index.m3u8
 #EXTINF:-1,BBC World News
@@ -181,6 +183,8 @@ http://persik.by/stream/6606/411484/46.m3u8
 http://d3svwuchx5fp62.cloudfront.net/rtplive/smil:jltv.smil/chunklist.m3u8
 #EXTINF:-1,Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
+#EXTINF:-1,English Club TV
+http://live02-cdn.tv.ti.ru:80/dtv/id530_NBN_SG--EnglishClub/03/plst.m3u8
 #EXTINF:-1,TVP Polonia
 http://persik.by/stream/6606/411484/10467.m3u8
 #EXTINF:-1,POLSAT News 2
