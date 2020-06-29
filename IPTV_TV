@@ -8,7 +8,7 @@ https://sc.id-tv.kz/DaVinci_34_35.m3u8
 #EXTINF:-1,HD Media
 http://serv25.vintera.tv:8081/hdmedia/hdmedia_pay/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,Nano TV
-http://185.46.48.16/NANO/index.m3u8
+http://nano.teleservice.su:8080/hls/nano.m3u8
 #EXTINF:-1,Наука 2.0
 http://178.163.44.13:4022/udp/234.0.0.226:2000
 #EXTINF:-1 tvg-logo="https://imgur.com/GzJ68m9.jpg",LOVE NATURE 4K
@@ -33,6 +33,8 @@ http://wfc.bonus-tv.ru:80/cdn/wfcrus/tracks-v1a1/index.m3u8
 http://hls.goodgame.ru/hls/12949.m3u8
 #EXTINF:-1,ULTO TV
 http://ultotv.ru:8888/live/uhd/playlist.m3u8
+#EXTINF:-1,UltraHD Cinema 4K
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-147600
 #EXTINF:-1 tvg-logo="https://imgur.com/mdNxnEA.jpg",Eurosport 4K
 http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8
 #EXTINF:-1,Евроновости
@@ -57,7 +59,7 @@ http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_OTT_MOSKOV24/variant.m3u8?version
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1,Мир 24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1,МИР Premium
+#EXTINF:-1 tvg-logo="https://imgur.com/upl5CX0.jpg",МИР Premium
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
 #EXTINF:-1,НТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/bw2000000/variant.m3u8?version=2
@@ -151,6 +153,8 @@ http://95.67.12.149:9004
 http://api.tv.ipnet.ua/api/v1/manifest/1311963260.m3u8
 #EXTINF:-1,Disney канал
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/bw2000000/variant.m3u8?version=2
+#EXTINF:-1,Cartoon Network
+http://31.41.100.5:81/udp/225.0.55.95:1234
 #EXTINF:-1,2x2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/bw2000000/variant.m3u8?version=2
 #EXTINF:-1,Карусель
