@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://iptv-content.webhop.net/guide.xml,https://iptvx.one/EPG,https://webarmen.com/my/iptv/xmltv.xml.gz" refresh="1800"
 #EXTINF:-1,Discovery Science
-http://live02-cdn.tv.ti.ru/dtv/id248_NBN_SG--DiscoveryScienceHD/04/plst.m3u8
+http://live-ng-01.more.tv/hls/Discovery_Science_HD/index_1.m3u8
 #EXTINF:-1,Galaxy
 http://178.163.87.168:4022/udp/234.0.0.111:2000
 #EXTINF:-1,Da Vinci
@@ -8,7 +8,7 @@ https://sc.id-tv.kz/DaVinci_34_35.m3u8
 #EXTINF:-1,HD Media
 http://serv25.vintera.tv:8081/hdmedia/hdmedia_pay/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,Nano TV
-http://nano.teleservice.su:8080/hls/nano.m3u8
+http://live02-cdn.tv.ti.ru:80/dtv/id1066_NBN_SG--NanoTV/03/plst.m3u8
 #EXTINF:-1,Наука 2.0
 http://178.163.44.13:4022/udp/234.0.0.226:2000
 #EXTINF:-1 tvg-logo="https://imgur.com/GzJ68m9.jpg",LOVE NATURE 4K
