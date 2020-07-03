@@ -10,7 +10,7 @@ http://serv25.vintera.tv:8081/hdmedia/hdmedia_pay/playlist.m3u8?checkedby:iptvca
 #EXTINF:-1,Nano TV
 http://live02-cdn.tv.ti.ru:80/dtv/id1066_NBN_SG--NanoTV/03/plst.m3u8
 #EXTINF:-1,Наука 2.0
-http://178.163.44.13:4022/udp/234.0.0.226:2000
+http://live02-cdn.tv.ti.ru:80/dtv/id240_NBN_SG--Nauka/03/plst.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/GzJ68m9.jpg",LOVE NATURE 4K
 http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_LOVENATURE4K_HLSHD.m3u8
 #EXTINF:-1,Ocean TV
@@ -99,9 +99,9 @@ http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
 http://api.tv.ipnet.ua/api/v1/manifest/871803891.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/9eRfobf.jpg",UA: Культура
 http://api.tv.ipnet.ua/api/v1/manifest/1311962540.m3u8
-#EXTINF:-1,UA: TV
+#EXTINF:-1 tvg-logo="https://imgur.com/GAvfrvf.jpg",UA: TV
 http://api.tv.ipnet.ua/api/v1/manifest/2118742330.m3u8
-#EXTINF:-1,UKR LIVE
+#EXTINF:-1 tvg-logo="https://imgur.com/cfUIl4X.jpg",UKR LIVE
 http://95.67.12.149:9005
 #EXTINF:-1,1+1
 http://188.35.9.11:2001/index.m3u8
@@ -115,8 +115,6 @@ http://94.45.135.158:1935/live/HrBroadcast/playlist.m3u8
 http://109.68.40.67/life/k1_3/index.m3u8
 #EXTINF:-1,Прямий
 http://95.67.21.100/hls/prm_ua_hi/index.m3u8
-#EXTINF:-1,ОТБ Галичина
-http://api.tv.ipnet.ua/api/v1/manifest/2118742464.m3u8
 #EXTINF:-1,Еспресо
 http://api.tv.ipnet.ua/api/v1/manifest/2007567821.m3u8
 #EXTINF:-1,4 канал Украина
