@@ -119,15 +119,15 @@ http://95.67.21.100/hls/prm_ua_hi/index.m3u8
 http://api.tv.ipnet.ua/api/v1/manifest/2007567821.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/7LXoNQQ.jpg",Наш
 http://api.tv.ipnet.ua/api/v1/manifest/1293296550.m3u8
-#EXTINF:-1,Думская TV
+#EXTINF:-1 tvg-logo="https://imgur.com/N0AE0Lm.jpg",Думская TV
 http://cdn1.live-tv.od.ua:8081/dumska/dumska-abr/dumska/dumska720p/playlist.m3u8
-#EXTINF:-1,ПравдаТУТ Київ
+#EXTINF:-1 tvg-logo="https://imgur.com/ieffXh2.jpg",ПравдаТУТ Київ
 http://95.67.17.131/hls/pravdatytkievshina_ua_hi/index.m3u8
-#EXTINF:-1,Перший Західний
+#EXTINF:-1 tvg-logo="https://imgur.com/ly3RVBz.jpg",Перший Західний
 http://api.tv.ipnet.ua/api/v1/manifest/2118742459.m3u8
 #EXTINF:-1,НТА
 http://95.67.106.10/hls/nta_ua_hi/index.m3u8
-#EXTINF:-1,СК1
+#EXTINF:-1 tvg-logo="https://imgur.com/ztdEvEl.jpg",СК1
 https://cdn10.live-tv.od.ua:8083/sk1zt/sk1zt-abr/sk1zt/sk1zt720p/chunks.m3u8
 #EXTINF:-1,1+1
 http://188.35.9.11:2001/index.m3u8
