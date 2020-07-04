@@ -103,13 +103,13 @@ http://api.tv.ipnet.ua/api/v1/manifest/1311962540.m3u8
 http://api.tv.ipnet.ua/api/v1/manifest/2118742330.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/cfUIl4X.jpg",UKR LIVE
 http://95.67.12.149:9005
-#EXTINF:-1 tvg-logo="https://imgur.com/3Tjv5bi.jpg",4 канал Украина
+#EXTINF:-1 tvg-name="4 канал Украина" tvg-logo="https://imgur.com/3Tjv5bi.jpg",4 Украина
 http://api.tv.ipnet.ua/api/v1/manifest/2118742331.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/M3Tr2Lb.jpg",24 Украина
 http://streamvideol1.luxnet.ua/news24/news24.stream/chunklist.m3u8
 #EXTINF:-1,112 Украина
 http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
-#EXTINF:-1,Перший незалежний
+#EXTINF:-1 tvg-logo="https://imgur.com/1ubBeLG.jpg",Перший незалежний
 http://95.67.12.149:9004
 #EXTINF:-1,Громадське
 http://94.45.135.158:1935/live/HrBroadcast/playlist.m3u8
