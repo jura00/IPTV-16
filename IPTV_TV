@@ -153,7 +153,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/bw2000000/variant.m3u8?versio
 http://rutv.gcdn.co/streams/1410_95/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/p8DhHPx.jpg",Шансон-TB
 http://hls.shansontv.cdnvideo.ru/shansontv/shansontv_hq.sdp/playlist.m3u8
-#EXTINF:-1,Телеканал Радио Страна ФМ
+#EXTINF:-1 tvg-name="Телеканал Радио Страна ФМ" tvg-logo="https://imgur.com/5GSM497.jpg",Страна FM
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:-1,Russian MusicBox
 http://serv25.vintera.tv:8081/test/rusmusbox/playlist.m3u8
@@ -167,9 +167,9 @@ http://persik.by/stream/6606/411484/10482.m3u8
 http://live02-cdn.tv.ti.ru:80/dtv/id146_NBN_SG--VH1Class/03/plst.m3u8
 #EXTINF:-1,MusicBox
 http://hls.clubplus.eu/ch09/index.m3u8
-#EXTINF:-1,1HD Music
+#EXTINF:-1 tvg-logo="https://imgur.com/XO4exRB.jpg",1HD Music
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
-#EXTINF:-1,CGTN Русский
+#EXTINF:-1 tvg-logo="https://imgur.com/caL8Bsn.jpg",CGTN Русский
 http://live.cgtn.com/1000r/prog_index.m3u8
 #EXTINF:-1,BBC World News
 http://persik.by/stream/6606/411484/46.m3u8
