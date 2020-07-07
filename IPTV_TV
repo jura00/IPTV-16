@@ -16,7 +16,7 @@ http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_LOVENATURE4K_HLSHD.m3u8
 #EXTINF:-1,Viasat Explore
 http://live-ng-01.more.tv/hls/Viasat_Explore_HD/index_1.m3u8
 #EXTINF:-1,Viasat History
-http://31.41.100.5:81/udp/225.0.55.27:1234
+http://live-ng-01.more.tv/hls/Viasat_History_HD/index_1.m3u8
 #EXTINF:-1,История
 http://78.29.1.69/live/istoriya/copy/playlist.m3u8
 #EXTINF:-1,Fashion TV
@@ -176,7 +176,7 @@ http://d3svwuchx5fp62.cloudfront.net/rtplive/smil:jltv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FQCLH2o.jpg",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
 #EXTINF:-1,English Club TV
-http://live02-cdn.tv.ti.ru:80/dtv/id530_NBN_SG--EnglishClub/03/plst.m3u8
+http://176.51.2.40:1234/udp/233.7.70.48:5000
 #EXTINF:-1,TVP Polonia
 http://persik.by/stream/6606/411484/10467.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6cTEbzA.jpg",POLSAT News 2
