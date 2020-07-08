@@ -5,13 +5,11 @@ http://live-ng-01.more.tv/hls/Discovery_Science_HD/index_1.m3u8
 http://178.163.87.168:4022/udp/234.0.0.111:2000
 #EXTINF:-1,Da Vinci
 https://sc.id-tv.kz/DaVinci_34_35.m3u8
-#EXTINF:-1,HD Media
-http://serv25.vintera.tv:8081/hdmedia/hdmedia_pay/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,Наука 2.0
-http://31.41.97.207:81/udp/225.0.55.13:1234
+http://188.168.24.1:81/udp/226.100.10.197:1234
 #EXTINF:-1,Ocean TV
 http://live-oceantvhd.cdnvideo.ru/oceantvhd/oceantvhd/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/GzJ68m9.jpg",LOVE NATURE 4K
+#EXTINF:-1 tvg-logo="https://imgur.com/GzJ68m9.jpg",Love Nature 4K
 http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_LOVENATURE4K_HLSHD.m3u8
 #EXTINF:-1,Viasat Explore
 http://live-ng-01.more.tv/hls/Viasat_Explore_HD/index_1.m3u8
@@ -141,8 +139,6 @@ http://api.tv.ipnet.ua/api/v1/manifest/1298864660.m3u8
 http://api.tv.ipnet.ua/api/v1/manifest/1311963260.m3u8
 #EXTINF:-1,Disney канал
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/bw2000000/variant.m3u8?version=2
-#EXTINF:-1,Cartoon Network
-http://31.41.100.5:81/udp/225.0.55.95:1234
 #EXTINF:-1,2x2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/bw2000000/variant.m3u8?version=2
 #EXTINF:-1,Карусель
@@ -161,8 +157,6 @@ http://rtmp.one.by:1300
 http://live.m2.tv/hls3/stream.m3u8
 #EXTINF:-1,VH1
 http://persik.by/stream/6606/411484/10482.m3u8
-#EXTINF:-1,VH1 Classic
-http://178.166.179.212:1234/udp/225.54.225.168:5000
 #EXTINF:-1,MusicBox
 http://hls.clubplus.eu/ch09/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XO4exRB.jpg",1HD Music
@@ -175,8 +169,6 @@ http://persik.by/stream/6606/411484/46.m3u8
 http://d3svwuchx5fp62.cloudfront.net/rtplive/smil:jltv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FQCLH2o.jpg",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
-#EXTINF:-1,English Club TV
-http://176.51.2.40:1234/udp/233.7.70.48:5000
 #EXTINF:-1,TVP Polonia
 http://persik.by/stream/6606/411484/10467.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6cTEbzA.jpg",POLSAT News 2
