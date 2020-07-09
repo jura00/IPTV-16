@@ -93,10 +93,10 @@ http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
 http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/kgAIiIJ.jpg",UA: Перший Ukraine
 http://api.tv.ipnet.ua/api/v1/manifest/871803891.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/GAvfrvf.jpg",UA: TV
-http://api.tv.ipnet.ua/api/v1/manifest/2118742330.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/9eRfobf.jpg",UA: Культура
 http://api.tv.ipnet.ua/api/v1/manifest/1311962540.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/GAvfrvf.jpg",UA: TV
+http://api.tv.ipnet.ua/api/v1/manifest/2118742330.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/cfUIl4X.jpg",UKR LIVE
 http://95.67.12.149:9005
 #EXTINF:-1 tvg-name="4 канал Украина" tvg-logo="https://imgur.com/3Tjv5bi.jpg",4 Украина
@@ -143,8 +143,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/bw2000000/variant.m3u8?version
 http://vs-msk-02.tv.ti.ru:80/dtv/id141_NBN_SG--cartoon/03/plst.m3u8
 #EXTINF:-1,2x2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/bw2000000/variant.m3u8?version=2
-#EXTINF:-1,Карусель
-http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/bw2000000/variant.m3u8?version=2
 #EXTINF:-1,RU TV
 http://rutv.gcdn.co/streams/1410_95/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/p8DhHPx.jpg",Шансон-TB
