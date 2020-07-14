@@ -8,9 +8,11 @@ https://sc.id-tv.kz/DaVinci_34_35.m3u8
 #EXTINF:-1,Наука 2.0
 http://188.168.24.1:81/udp/226.100.10.197:1234
 #EXTINF:-1,Ocean TV
-http://live-oceantvhd.cdnvideo.ru/oceantvhd/oceantvhd/chunklist.m3u8
+http://91.192.168.242:9091
 #EXTINF:-1 tvg-logo="https://imgur.com/GzJ68m9.jpg",Love Nature 4K
 http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_LOVENATURE4K_HLSHD.m3u8
+#EXTINF:-1,Viasat Nature
+http://live-ng-01.more.tv/hls/Viasat_Nature_HD/index_1.m3u8
 #EXTINF:-1,Viasat Explore
 http://live-ng-01.more.tv/hls/Viasat_Explore_HD/index_1.m3u8
 #EXTINF:-1,Viasat History
@@ -82,7 +84,7 @@ http://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/dTufxla.jpg",Известия ТВ
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1,RTVi
-http://fr01.spr24.net/5673/index.m3u8?token=rCEqTFvRhtEvXt
+http://cloudflare.cdn.cdntraffice.com:80/Qss25li56/GAHRMb58/15240
 #EXTINF:-1,Дождь
 http://hlstv.kem.211.ru/239.211.200.34/stream.m3u8
 #EXTINF:-1,100% News
