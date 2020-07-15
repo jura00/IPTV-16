@@ -77,16 +77,20 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/bw2000000/variant.m3u8?version
 https://bl.zxz.su/live/317850/HLS/4614144_3/1565921809/94e975ed33722815523b6d1fbe0f8780/playlist.m3u8
 #EXTINF:-1,ТНТ4
 https://bl.zxz.su/live/317849/HLS/4614144_3,2883584_1,1153024_2/1565200649/a90286e262ef3af69815ceca0ae7cacb/playlist.m3u8
+#EXTINF:-1,Сарафан
+http://hlstv.kem.211.ru/239.211.211.97/stream.m3u8
 #EXTINF:-1,Ностальгия
 http://178.217.72.66/225.201.2.17/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ТВ Центр
 http://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/dTufxla.jpg",Известия ТВ
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+#EXTINF:-1,Совершенно секретно
+http://persik.by/stream/6606/411484/350.m3u8
 #EXTINF:-1,RTVi
 http://cloudflare.cdn.cdntraffice.com:80/Qss25li56/GAHRMb58/15240
 #EXTINF:-1,Дождь
-http://hlstv.kem.211.ru/239.211.200.34/stream.m3u8
+http://hlstv.kem.211.ru/239.211.211.70/stream.m3u8
 #EXTINF:-1,100% News
 http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/bC7Dtnf.jpg",Общественное Независимое Телевидение
