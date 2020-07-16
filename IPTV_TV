@@ -35,12 +35,6 @@ http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?v
 http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8
 #EXTINF:-1,Евроновости
 http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
-#EXTINF:-1,Беларусь 1 HD
-http://persik.by/stream/6606/411484/10405.m3u8
-#EXTINF:-1,Беларусь 2 HD
-http://persik.by/stream/6606/411484/10406.m3u8
-#EXTINF:-1,Беларусь 3 HD
-http://persik.by/stream/6606/411484/10407.m3u8
 #EXTINF:-1,Первый канал
 http://rt-vlg-nn-htlive-lb.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8
 #EXTINF:-1,Россия 1 HD
@@ -90,7 +84,7 @@ http://persik.by/stream/6606/411484/350.m3u8
 #EXTINF:-1,RTVi
 http://cloudflare.cdn.cdntraffice.com:80/Qss25li56/GAHRMb58/15240
 #EXTINF:-1,Дождь
-http://hlstv.kem.211.ru/239.211.211.70/stream.m3u8
+http://hlstv.kem.211.ru/239.211.200.34/stream.m3u8
 #EXTINF:-1,100% News
 http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/bC7Dtnf.jpg",Общественное Независимое Телевидение
@@ -167,6 +161,8 @@ http://vs-msk-02.tv.ti.ru:80/dtv/id146_NBN_SG--VH1Class/03/plst.m3u8
 http://hls.clubplus.eu/ch09/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XO4exRB.jpg",1HD Music
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
+#EXTINF:-1,Ф
+http://persik.by/stream/6606/411484/10489.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/caL8Bsn.jpg",CGTN Русский
 http://live.cgtn.com/1000r/prog_index.m3u8
 #EXTINF:-1,BBC World News
@@ -183,3 +179,5 @@ http://hls.redefine.pl/20C4EB56/1575/0/hls576/masterlist.m3u8
 http://hls.redefine.pl/97100F84/1577/0/hls576/576p/list.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/fBRAxns.jpg",TV Republika
 https://ec08.luz1.cache.orange.pl/jupiter/o2-cl7/live/tvrepublika/live-tvrepublika-1700k.m3u8
+#EXTINF:-1,Tele 5
+http://persik.by/stream/6606/411484/10474.m3u8
