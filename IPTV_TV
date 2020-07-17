@@ -27,8 +27,6 @@ http://persik.by/stream/6726/387326/10317.m3u8
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 #EXTINF:-1,World Fashion Channel
 http://wfc.bonus-tv.ru:80/cdn/wfcrus/tracks-v1a1/index.m3u8
-#EXTINF:-1,Pzn Stream
-http://hls.goodgame.ru/hls/12949.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/sk7a59H.jpg",UltraHD Cinema 4K
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-147600
 #EXTINF:-1 tvg-logo="https://imgur.com/mdNxnEA.jpg",Eurosport 4K
@@ -84,7 +82,7 @@ http://persik.by/stream/6606/411484/350.m3u8
 #EXTINF:-1,RTVi
 http://cloudflare.cdn.cdntraffice.com:80/Qss25li56/GAHRMb58/15240
 #EXTINF:-1,Дождь
-http://hlstv.kem.211.ru/239.211.200.34/stream.m3u8
+http://37.235.150.21:81/udp/225.50.76.1:1234
 #EXTINF:-1,100% News
 http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/bC7Dtnf.jpg",Общественное Независимое Телевидение
@@ -161,16 +159,14 @@ http://vs-msk-02.tv.ti.ru:80/dtv/id146_NBN_SG--VH1Class/03/plst.m3u8
 http://hls.clubplus.eu/ch09/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XO4exRB.jpg",1HD Music
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
-#EXTINF:-1,Ф
+#EXTINF:-1,Санкт-Петербургская академическая филармония
 http://persik.by/stream/6606/411484/10489.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/caL8Bsn.jpg",CGTN Русский
-http://live.cgtn.com/1000r/prog_index.m3u8
 #EXTINF:-1,BBC World News
 http://persik.by/stream/6606/411484/46.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ewBGbj7.jpg",Jewish Life TV
 http://d3svwuchx5fp62.cloudfront.net/rtplive/smil:jltv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FQCLH2o.jpg",Red Bull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
 #EXTINF:-1,TVP Polonia
 http://persik.by/stream/6606/411484/10467.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6cTEbzA.jpg",POLSAT News 2
