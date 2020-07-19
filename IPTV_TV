@@ -92,7 +92,7 @@ http://api.tv.ipnet.ua/api/v1/manifest/871803891.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/9eRfobf.jpg",UA: Культура
 http://api.tv.ipnet.ua/api/v1/manifest/1311962540.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/GAvfrvf.jpg",UA: TV
-http://api.tv.ipnet.ua/api/v1/manifest/2118742330.m3u8
+http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://imgur.com/cfUIl4X.jpg",UKR LIVE
 http://95.67.12.149:9005
 #EXTINF:-1 tvg-name="4 канал Украина" tvg-logo="https://imgur.com/3Tjv5bi.jpg",4 Украина
@@ -113,10 +113,10 @@ http://api.tv.ipnet.ua/api/v1/manifest/2007567821.m3u8
 http://api.tv.ipnet.ua/api/v1/manifest/1293296550.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/N0AE0Lm.jpg",Думская TV
 http://cdn1.live-tv.od.ua:8081/dumska/dumska-abr/dumska/dumska720p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/ieffXh2.jpg",ПравдаТУТ Київ
+#EXTINF:-1 tvg-logo="https://imgur.com/ieffXh2.jpg",ПравдаТУТ
 http://95.67.17.131/hls/pravdatytkievshina_ua_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ly3RVBz.jpg",Перший Західний
-http://api.tv.ipnet.ua/api/v1/manifest/2118742459.m3u8
+http://rtmp.cdn.ua/1zahid.com_live/_definst_/livestream/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,НТА
 http://95.67.106.10/hls/nta_ua_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ztdEvEl.jpg",СК1
@@ -125,8 +125,6 @@ https://cdn10.live-tv.od.ua:8083/sk1zt/sk1zt-abr/sk1zt/sk1zt720p/chunks.m3u8
 http://188.35.9.11:2001/index.m3u8
 #EXTINF:-1,Интер
 http://109.68.41.148:1935/live/inter_2/playlist.m3u8
-#EXTINF:-1,Эко-ТВ
-http://api.tv.ipnet.ua/api/v1/manifest/1311963170.m3u8
 #EXTINF:-1,К1
 http://109.68.40.67/life/k1_3/index.m3u8
 #EXTINF:-1,КРТ
@@ -159,8 +157,6 @@ http://vs-msk-02.tv.ti.ru:80/dtv/id146_NBN_SG--VH1Class/03/plst.m3u8
 http://hls.clubplus.eu/ch09/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XO4exRB.jpg",1HD Music
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
-#EXTINF:-1,Санкт-Петербургская академическая филармония
-http://persik.by/stream/6606/411484/10489.m3u8
 #EXTINF:-1,BBC World News
 http://persik.by/stream/6606/411484/46.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ewBGbj7.jpg",Jewish Life TV
