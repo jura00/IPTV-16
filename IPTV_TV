@@ -51,8 +51,6 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
 #EXTINF:-1,НТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-logo="https://imgur.com/p60mw6R.jpg",Настоящее время
-http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8
 #EXTINF:-1,Звезда
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1,Рен ТВ
@@ -81,12 +79,14 @@ http://persik.by/stream/6606/411484/350.m3u8
 http://fr01.spr24.net/5673/index.m3u8?token=rCEqTFvRhtEvXt
 #EXTINF:-1,Дождь
 http://37.235.150.21:81/udp/225.50.76.1:1234
+#EXTINF:-1 tvg-logo="https://imgur.com/p60mw6R.jpg",Настоящее время
+http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/index_1080_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1,100% News
 http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/bC7Dtnf.jpg",Общественное Независимое Телевидение
 http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/kgAIiIJ.jpg",UA: Перший Ukraine
-http://api.tv.ipnet.ua/api/v1/manifest/871803891.m3u8
+http://193.34.172.141:8000/play/a02j/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/9eRfobf.jpg",UA: Культура
 http://api.tv.ipnet.ua/api/v1/manifest/1311962540.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/GAvfrvf.jpg",UA: TV
@@ -94,7 +94,7 @@ http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8?checkedby:iptvcat
 #EXTINF:-1 tvg-logo="https://imgur.com/cfUIl4X.jpg",UKR LIVE
 http://95.67.12.149:9005
 #EXTINF:-1 tvg-name="4 канал Украина" tvg-logo="https://imgur.com/3Tjv5bi.jpg",4 Украина
-http://api.tv.ipnet.ua/api/v1/manifest/2118742331.m3u8
+http://95.67.106.10/hls/nta_ua_hi/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://imgur.com/M3Tr2Lb.jpg",24 Украина
 http://streamvideol1.luxnet.ua/news24/news24.stream/chunklist.m3u8
 #EXTINF:-1,112 Украина
