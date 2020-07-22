@@ -68,7 +68,7 @@ http://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/dTufxla.jpg",Известия ТВ
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1,RTVi
-http://fr01.spr24.net/5673/index.m3u8?token=rCEqTFvRhtEvXt
+http://s03.iptvx.tv:8090/s/882ff861/rtvi.m3u8
 #EXTINF:-1,Дождь
 http://37.235.150.21:81/udp/225.50.76.1:1234
 #EXTINF:-1 tvg-logo="https://imgur.com/p60mw6R.jpg",Настоящее время
@@ -119,8 +119,6 @@ http://109.68.41.148:1935/live/inter_2/playlist.m3u8
 http://109.68.40.67/life/k1_3/index.m3u8
 #EXTINF:-1,КРТ
 http://api.tv.ipnet.ua/api/v1/manifest/1298864660.m3u8
-#EXTINF:-1,Малятко
-http://api.tv.ipnet.ua/api/v1/manifest/1311963260.m3u8
 #EXTINF:-1,Disney канал
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/bw2000000/variant.m3u8?version=2
 #EXTINF:-1,Cartoon Network
@@ -147,7 +145,7 @@ http://vs-msk-02.tv.ti.ru:80/dtv/id146_NBN_SG--VH1Class/03/plst.m3u8
 http://hls.clubplus.eu/ch09/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XO4exRB.jpg",1HD Music
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
-#EXTINF:-1,DW English
+#EXTINF:-1,DW Europe English
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8
 #EXTINF:-1,France 24 English
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
