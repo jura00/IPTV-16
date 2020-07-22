@@ -8,7 +8,7 @@ https://sc.id-tv.kz/DaVinci_34_35.m3u8
 #EXTINF:-1,Наука 2.0
 http://188.168.24.1:81/udp/226.100.10.197:1234
 #EXTINF:-1,Ocean TV
-http://91.192.168.242:9091
+http://live-oceantvhd.cdnvideo.ru/oceantvhd/oceantvhd/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/GzJ68m9.jpg",Love Nature 4K
 http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_LOVENATURE4K_HLSHD.m3u8
 #EXTINF:-1,Viasat Nature
@@ -147,8 +147,10 @@ http://vs-msk-02.tv.ti.ru:80/dtv/id146_NBN_SG--VH1Class/03/plst.m3u8
 http://hls.clubplus.eu/ch09/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XO4exRB.jpg",1HD Music
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
-#EXTINF:-1,BBC World News
-http://217.12.77.36:81/udp/235.10.10.161:1234
+#EXTINF:-1,DW English
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8
+#EXTINF:-1,France 24 English
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ewBGbj7.jpg",Jewish Life TV
 http://d3svwuchx5fp62.cloudfront.net/rtplive/smil:jltv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FQCLH2o.jpg",Red Bull TV
