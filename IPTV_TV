@@ -58,7 +58,7 @@ http://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/dTufxla.jpg",Известия ТВ
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1,RTVi
-https://player.cdnvideo.rustream.m3u8id=16k47tdh3j74
+http://188.93.94.46:80/rtvi/index.m3u8
 #EXTINF:-1,Дождь
 http://37.235.150.21:81/udp/225.50.76.1:1234
 #EXTINF:-1 tvg-logo="https://imgur.com/p60mw6R.jpg",Настоящее время
