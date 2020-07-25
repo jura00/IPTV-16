@@ -23,6 +23,8 @@ http://78.29.1.69/live/istoriya/copy/playlist.m3u8
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 #EXTINF:-1,World Fashion Channel
 http://wfc.bonus-tv.ru:80/cdn/wfcrus/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/mdNxnEA.jpg",Eurosport 4K
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/sk7a59H.jpg",UltraHD Cinema 4K
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-147600
 #EXTINF:-1,Первый канал
@@ -64,8 +66,7 @@ http://37.235.150.21:81/udp/225.50.76.1:1234
 #EXTINF:-1 tvg-logo="https://imgur.com/p60mw6R.jpg",Настоящее время
 #EXTINF:-1,Евроновости
 http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/mdNxnEA.jpg",Eurosport 4K
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/p60mw6R.jpg",Настоящее время
 http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/index_1080_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1,100% News
 http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
