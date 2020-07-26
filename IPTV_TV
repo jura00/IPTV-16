@@ -50,7 +50,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/bw2000000/variant.m3u8?version
 #EXTINF:-1,ТНТ4
 https://bl.zxz.su/live/317849/HLS/4614144_3,2883584_1,1153024_2/1565200649/a90286e262ef3af69815ceca0ae7cacb/playlist.m3u8
 #EXTINF:-1,Сарафан
-http://hlstv.kem.211.ru/239.211.211.97/stream.m3u8
+http://vs-msk-02.tv.ti.ru:80/dtv/id160_NBN_SG--Sarafan/03/plst.m3u8
 #EXTINF:-1,Ностальгия
 http://178.217.72.66/225.201.2.17/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ТВ Центр
