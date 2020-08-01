@@ -124,8 +124,8 @@ http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 http://serv25.vintera.tv:8081/test/rusmusbox/playlist.m3u8
 #EXTINF:-1,М2
 http://live.m2.tv/hls3/stream.m3u8
-#EXTINF:-1,VH1
-http://151.252.74.35:4545/udp/236.0.6.55:1120
+#EXTINF:-1,VH1 European
+http://95.183.17.154:4021/udp/239.10.1.88:5000
 #EXTINF:-1,VH1 Classic
 http://vs-msk-02.tv.ti.ru:80/dtv/id146_NBN_SG--VH1Class/03/plst.m3u8
 #EXTINF:-1,MusicBox
