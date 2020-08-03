@@ -23,6 +23,8 @@ https://stream5.shidur.net/htvlive2/_definst_/smil:live2.smil/chunklist.m3u8
 https://edge1.il.kab.tv/rtplive/tv66-heb-high.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/4a5xsbR.jpg", Sport 5
 https://sport5-lh.akamaihd.net/i/radiolivev_0@698733/index_1_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ep7EhkD.jpg", Pervoe radio WEB
+http://gb25.streamgates.net/radios891fm/feed720_in/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ep7EhkD.jpg", Pervoe radio
 http://891fm.streamgates.net/891Fm
 #EXTINF:-1 tvg-logo="https://imgur.com/VgLpzF1.jpg", Reka
@@ -35,4 +37,3 @@ https://kanlivep2event-i.akamaihd.net/hls/live/749623/749623/kan88_mp3/chunklist
 http://glzwizzlv.bynetcdn.com/glglz_mp3?awCollectionId=misc&awEpisodeId=glglz|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.130 Safari/537.36
 #EXTINF:-1 tvg-logo="https://imgur.com/dfVlN8h.jpg", Kol HaMusika
 https://kanlivep2event-i.akamaihd.net/hls/live/749627/749627/kanclassical_mp3/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36&referer=https://www.kan.org.il/live/
-
