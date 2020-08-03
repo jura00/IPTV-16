@@ -56,7 +56,7 @@ http://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/dTufxla.jpg",Известия ТВ
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1,RTVi
-http://188.93.94.46:80/rtvi/index.m3u8
+http://178.124.183.14:80/hls/PN9VRQ5DGR/bw1200000/playlist.m3u8
 #EXTINF:-1,Дождь
 http://hlstv.kem.211.ru/239.211.200.34/stream.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/p60mw6R.jpg",Настоящее время
@@ -109,7 +109,7 @@ http://31.41.100.246:81/udp/225.0.55.109:1234
 #EXTINF:-1,КРТ
 http://api.tv.ipnet.ua/api/v1/manifest/1298864660.m3u8
 #EXTINF:-1,Беларусь 24
-http://31.41.100.246:81/udp/225.0.55.40:1234
+http://vs-msk-02.tv.ti.ru:80/dtv/id600_NBN_SG--belarus24/03/plst.m3u8
 #EXTINF:-1,Disney канал
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/bw2000000/variant.m3u8?version=2
 #EXTINF:-1,Cartoon Network
