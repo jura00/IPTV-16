@@ -131,7 +131,7 @@ http://hls.clubplus.eu/ch09/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XO4exRB.jpg",1HD Music
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 #EXTINF:-1,BBC World News
-http://31.23.41.51:7777/udp/225.23.3.10:5000
+http://iptv1.privateiptv.club:80/freeview/freeview/825
 #EXTINF:-1 tvg-logo="https://imgur.com/mUONwmG.jpg" tvg-name="DW Europe",Deutsche Welle English
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8
 #EXTINF:-1,France 24 English
